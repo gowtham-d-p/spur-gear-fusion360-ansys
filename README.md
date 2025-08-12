@@ -8,7 +8,7 @@ This project demonstrates the design of a **spur gear** in Fusion 360 and its **
 ## 🖥 CAD Design (Fusion 360)
 The spur gear was designed in Fusion 360 with accurate tooth profile for standard gear parameters.
 
-![CAD Model](https://github.com/gowtham-d-p/spur-gear-fusion360-ansys/blob/main/Spur%20Gear/Media/Animation.mp4)
+![CAD Model]("C:\Users\User\Downloads\Spur Gear Gif.mp4")
 
 ---
 
