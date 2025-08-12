@@ -19,7 +19,7 @@ The Fusion 360 model was imported into ANSYS for **static structural analysis**.
 ![Total Deformation](ANSYS/total-deformation.png)
 
 ### Equivalent (Von Mises) Stress
-![Von Mises Stress](ANSYS/stress.jpeg)
+![Von Mises Stress](https://github.com/gowtham-d-p/spur-gear-fusion360-ansys/blob/main/Spur%20Gear/Ansys/stress.jpeg)
 
 ### Equivalent Elastic Strain
 ![Elastic Strain](ANSYS/strain.png)
